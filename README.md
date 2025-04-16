@@ -65,3 +65,5 @@ The project also requires preparing a 20-minute presentation to a mock customer 
 - Well-documented and reproducible code
 - Results and visualizations
 - Slide deck summarizing methodology and insights
+
+📁 This repository was created as part of the Dataiku Data Scientist Technical Assessment.
