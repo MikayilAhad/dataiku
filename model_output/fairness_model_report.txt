@@ -1,0 +1,4 @@
+Fairness-Aware Model (ExponentiatedGradient with DemographicParity)
+F1 Score: 0.2263
+Precision: 0.7789
+Recall: 0.1324

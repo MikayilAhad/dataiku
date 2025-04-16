@@ -1,0 +1,4 @@
+Model: XGBClassifier
+F1-score: 0.6095
+Precision: 0.6848
+Recall: 0.5492
