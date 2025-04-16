@@ -18,6 +18,20 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+### Run the Model
+
+Once dependencies are installed and the virtual environment is activated, you can run the full pipeline by executing:
+
+```bash
+python main.py
+```
+
+This will:
+- Load and preprocess the data
+- Train and evaluate multiple models
+- Apply fairness-aware modeling
+- Save the best model and performance metrics in the `model_output` folder
+
 ## Assignment Overview
 
 This repository contains my submission for the Dataiku Data Scientist Technical Assessment and Presentation.
